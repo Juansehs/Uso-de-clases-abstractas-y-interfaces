@@ -1,0 +1,13 @@
+Clases abstractas
+
+estas tienen un funcionamiento similar al de una super clase interactuando con
+ otras clases por medio de el uso de metodos sin un logica ya determinada si no  que en su lugar
+ fuciona de acuerdo a la forma en la que se implementa en otras siendo este asi un ejemplo de polimorfismo
+ al sobreescribir o dar varios usos a una abstract class y no se puede instanciar o crear un (new) en una clase
+ abstracta.
+
+
+ Interfaces
+
+
+es una lista de requerimientos que se deben cumplir o tener si o si en una clase con sus respectivos metodos

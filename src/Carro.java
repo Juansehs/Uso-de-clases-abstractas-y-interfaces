@@ -1,4 +1,11 @@
-package PACKAGE_NAME;
+public class Carro  implements Vehiculos{
+    @Override
+    public void arrancar() {
+        System.out.println("Arrancando...");
+    }
 
-public class Carro {
+    @Override
+    public void frenar() {
+        System.out.println("Deteniendo..");
+    }
 }

@@ -1,4 +1,12 @@
-package PACKAGE_NAME;
+ class coche extends Vehiculo {
+     coche(String marca) {
+         super(marca);
+     }
 
-public class coche {
-}
+
+     @Override
+     void conducir() {
+         System.out.println("Conduciendo el coche de la marca " + marca);
+     }
+ }
+
